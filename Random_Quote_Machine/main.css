@@ -1,0 +1,27 @@
+
+.mid_div {
+    background: white;
+    border-radius: 3px;
+    position: relative;
+    margin: 8% auto auto auto;
+    width: 450px;
+    padding: 40px 50px;
+    display: table;
+}
+.text_div {
+    margin-right: 0.4em;
+}
+.center {
+    margin: auto;
+}
+.auther_div {
+    text-align: right;
+}
+.auther {
+    font-size: 30px;
+
+}
+.text {
+    font-size: 25px;
+
+}

@@ -1,0 +1,37 @@
+body {
+    background: rgb(22,22,22);
+}
+* {
+    padding: 0px;
+    margin: 0px;
+    color:white;
+    font-size:20px;
+}
+h1 {
+    margin-top: 8%;
+    text-align: center;
+    font-size: 4.5rem;
+}
+h2 {
+    text-align: center;
+    font-size: 4.5rem;
+    margin-top: 3%;
+}
+.city {
+    font-size: 3.5rem;
+    text-align: center;
+    margin-top: 3rem;
+}
+.tep {
+    font-size: 1.5rem;
+    text-align: center;
+    margin-top: 2rem;
+}
+.weather {
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 1rem;
+}
+.wi {
+    font-size: 4.5rem;
+}
